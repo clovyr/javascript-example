@@ -1,0 +1,35 @@
+{
+  "name": "clovyr-javascript-example",
+  "version": "0.0.1",
+  "description": "Example implementation of TodoMVC with Angular.js for Clovyr Code's JavaScript environment",
+  "license": "SEE LICENSE IN ../license.md",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clovyr/javascript-example.git"
+  },
+  "scripts": {
+    "test-server": "gulp test-server &",
+    "server": "gulp test-server",
+    "clean": "gulp clean",
+    "gulp": "gulp"
+  },
+  "dependencies": {
+    "angular": "^1.4.3",
+    "express": "^4.10.0",
+    "todomvc-common": "^1.0.0",
+    "todomvc-app-css": "^2.1.0",
+    "angular-route": "^ 1.4.3",
+    "angular-resource": "^1.4.3"
+  },
+  "devDependencies": {
+    "del": "^0.1.1",
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^0.7.0",
+    "run-sequence": "^1.0.1",
+    "serve-favicon": "^2.3.0",
+    "vinyl-fs": "github:gulpjs/vinyl-fs#59386ca",
+    "jasmine-core": "^2.0.0"
+  },
+  "private": true
+}
