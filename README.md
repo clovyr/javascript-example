@@ -22,11 +22,11 @@ implemented using MV* concepts in most of the popular JavaScript MV* frameworks 
 
 ## Running an example
 
-1. Navigate to the example directory of your preferred JS framework:<br/>
+1. Navigate to the example directory of your preferred JS framework:  
 `cd git/github.com/clovyr/javascript-example/examples/todomvc-react`
-1. Install dependencies<br>
+1. Install dependencies  
 `npm install`
-1. Run the server<br>
+1. Run the server  
 `npm run server`
 1. In a new browser tab, enter the url of your Clovyr Code instance
 prefixed by `8080-`
