@@ -23,7 +23,7 @@ implemented using MV* concepts in most of the popular JavaScript MV* frameworks 
 ## Running an example
 
 1. Navigate to the example directory of your preferred JS framework:  
-`cd git/github.com/clovyr/javascript-example/examples/todomvc-react`
+`cd ~/git/github.com/clovyr/javascript-example/examples/todomvc-react`
 2. Install dependencies  
 `npm install`
 3. Run the server  
